@@ -65,6 +65,7 @@
 "../../../phys_3dperson_01/Content/StarterContent/Props/SM_CornerFrame.uasset" 64
 "../../../phys_3dperson_01/Content/StarterContent/Props/SM_Couch.uasset" 65
 <<<<<<< HEAD
+<<<<<<< HEAD
 "../../../phys_3dperson_01/Content/StarterContent/Materials/M_Glass.uasset" 66
 "../../../phys_3dperson_01/Content/StarterContent/Props/Materials/M_Door.uasset" 67
 "../../../phys_3dperson_01/Content/StarterContent/Props/SM_Door.uasset" 68
@@ -294,6 +295,8 @@
 "../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 292
 "../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 293
 =======
+=======
+>>>>>>> parent of bc48149... v0.1.4.5.7.2
 "../../../phys_3dperson_01/Content/StarterContent/Props/Materials/M_Door.uasset" 66
 "../../../phys_3dperson_01/Content/StarterContent/Props/SM_Door.uasset" 67
 "../../../phys_3dperson_01/Content/StarterContent/Props/SM_DoorFrame.uasset" 68
@@ -522,6 +525,9 @@
 "../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 291
 "../../../Engine/Content/EditorMeshes/EditorCube.uasset" 292
 "../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 293
+<<<<<<< HEAD
+>>>>>>> parent of bc48149... v0.1.4.5.7.2
+=======
 >>>>>>> parent of bc48149... v0.1.4.5.7.2
 "../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 294
 "../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 295
@@ -581,6 +587,7 @@
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 349
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 350
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 351
+<<<<<<< HEAD
 <<<<<<< HEAD
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 352
 "../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 353
@@ -652,6 +659,8 @@
 "../../../phys_3dperson_01/Content/Maps/map_phys_aud_02.umap" 419
 "../../../Engine/Content/Maps/Entry.umap" 420
 =======
+=======
+>>>>>>> parent of bc48149... v0.1.4.5.7.2
 "../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 352
 "../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 353
 "../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 354
@@ -722,4 +731,7 @@
 "../../../phys_3dperson_01/Content/test/Mixamo_Adam/Mesh/Maximo_Adam.uasset" 419
 "../../../phys_3dperson_01/Content/Maps/map_phys_aud_02.umap" 420
 "../../../Engine/Content/Maps/Entry.umap" 421
+<<<<<<< HEAD
+>>>>>>> parent of bc48149... v0.1.4.5.7.2
+=======
 >>>>>>> parent of bc48149... v0.1.4.5.7.2
