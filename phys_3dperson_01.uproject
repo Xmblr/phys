@@ -1,12 +1,17 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.17",
+	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"Android",
 		"AllDesktop",
-		"HTML5",
 		"IOS",
 		"WindowsNoEditor"
 	]
